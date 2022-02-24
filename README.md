@@ -1,24 +1,4 @@
 # ICS20-unit-1-03-html
 
-###############################################
-
-# Run GitHub's Super Linter against code base #
-
-###############################################
----
-name: GitHub's Super Linter
-on: push
-jobs:
-  run-linters:
-    name: GitHub's Super Linter
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out Git repository
-        uses: actions/checkout@master        
-      - name: Run GitHub Super Linter
-        uses: github/super-linter@main
-        env:
-          VALIDATE_ALL_CODEBASE: true
-          VALIDATE_JAVASCRIPT_STANDARD: false
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+[![GitHub's Super Linter](https://github.com//marco-cuconato/ICS20-unit-1-03-html//workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com//marco-cuconato/ICS20-unit-1-03-html//actions)
+[![Run on Repl.it](https://repl.it/badge/github/</marco-cuconato/ICS20-unit-1-03-html/)](https://repl.it/github//marco-cuconato/ICS20-unit-1-03-html/)
