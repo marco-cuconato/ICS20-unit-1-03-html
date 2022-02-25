@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github//marco-cuconato/ICS20-unit-1-03-html/)](https://repl.it/github//marco-cuconato/ICS20-unit-1-03-html/)
 
-This site can be found at: [https://marco-cuconato.github.io/ICS20-unit-1-03-html](https:///marco-cuconato.github.io/ICS20-unit-1-03-html)
+This site can be found at: [https://marco-cuconato.github.io/ICS20-unit-1-03-html](https://marco-cuconato.github.io/ICS20-unit-1-03-html)
